@@ -21,7 +21,6 @@ The dataset given by Kaggle consists of 8 columns and approximately 24004 millio
 ## Project Overview
 ![veri22](https://user-images.githubusercontent.com/49760031/78184206-c5fc6380-7471-11ea-89b7-4ed89e36bc89.png)
 ![veri2222](https://user-images.githubusercontent.com/49760031/78184241-d14f8f00-7471-11ea-96f5-3a5da2546217.png)
-![veri2](https://user-images.githubusercontent.com/49760031/78184258-d7de0680-7471-11ea-98c6-e567a37437cb.png)
 
 ---
 
